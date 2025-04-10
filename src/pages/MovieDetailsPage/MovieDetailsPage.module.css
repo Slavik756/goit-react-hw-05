@@ -1,0 +1,15 @@
+.movieDetailsPage {
+    padding: 20px;
+  }
+  
+  button {
+    margin-bottom: 20px;
+  }
+  .actor-photo {
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    margin-right: 10px; 
+  }
+  

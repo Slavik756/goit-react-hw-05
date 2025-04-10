@@ -1,0 +1,26 @@
+.cast {
+    margin-top: 20px;
+  }
+  
+  .actor {
+    display: inline-block;
+    width: 120px;
+    text-align: center;
+    height: 220px; 
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+  }
+  p {
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+    line-height: 1.4; 
+    max-width: 120px; 
+    height: 40px;  
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+  }
